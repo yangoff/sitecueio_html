@@ -1,0 +1,51 @@
+body{
+    background-color: grey;
+    text-align: center;
+
+}
+nav{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-top: -10px;
+    background-color: black;
+    margin-left: -10px;
+    padding-left: 20px;
+    margin-right: -10px;
+    text-align: left;
+
+}
+a{
+    background-color:black;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    font-family: serif "Arial Black";
+    font-size: 20;
+    text-decoration: none;
+    color: white;
+}
+img#baner{
+    width: 101%;
+    height: 50%;
+    margin-left: -25px;
+    margin-right: -25px;
+    padding-top: 0px;
+}
+
+div#texto{
+    padding-top:30px;
+    padding-bottom: 30px;
+    color: aliceblue;
+    font-size: 20;
+    background-color: black;
+    margin-left: -25px;
+    margin-right: -25px;
+    border-spacing: 10px;
+}
+a#yango{
+    background-color: grey;
+}
+img{
+    padding-top: 40px;
+}

@@ -1,0 +1,27 @@
+h1{
+    color: black;
+}
+p{
+    font-family:serif;
+    
+    
+}
+h2{
+    color: gray;
+    text-align: center;
+    border-bottom: 3px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    
+    border-style: solid;
+    
+}
+h4{
+    text-align: center;
+}
+
+div.imagem{
+    
+    
+}
